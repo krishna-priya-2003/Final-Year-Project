@@ -140,10 +140,6 @@ Conclusion
 
 The proposed AI-based building plan generation system provides a smart, automated, and efficient solution for modern construction planning. By integrating machine learning, rule-based validation, and optimization techniques, the system delivers accurate and reliable building designs while saving time and cost.
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
 ```sh
 git clone <this-repository-url>
 cd <repository-name>
